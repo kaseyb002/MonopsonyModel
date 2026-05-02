@@ -1,2 +1,2 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+// MonopsonyModel — a Monopoly-style economic board game
+// reskinned around labor-market monopsony power.
